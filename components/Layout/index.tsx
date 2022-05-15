@@ -69,7 +69,7 @@ const Layout = ({ children }: Props) => {
         </Container>
       </Box>
       {children}
-      <Box as="footer" pos="fixed" w="full" bottom={0} py={5}>
+      <Box as="footer" w="full" py={5}>
         <Container
           maxW="container.md"
           display="flex"

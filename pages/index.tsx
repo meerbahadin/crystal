@@ -23,6 +23,7 @@ const Home: NextPage = () => {
         display="grid"
         placeContent="center"
         placeItems="center"
+        minH="75vh"
       >
         <>
           <Crystal />
