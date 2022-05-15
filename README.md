@@ -10,4 +10,4 @@ Authentication and more is coming soon..
 
 ## Author
 
-- [@nmeerbahadin](https://github.com/meerbahadin)
+- [@meerbahadin](https://github.com/meerbahadin)
